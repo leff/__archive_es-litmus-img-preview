@@ -1,8 +1,8 @@
-# node-js-getting-started
+# es-litmus-img-preview
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A way to serve images so that litmus can see them, while working on emails.
+Uses Node.js and [Express 4](http://expressjs.com/) to serve up statics. Hosted on heroku.
 
-This application support the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
 
 ## Running Locally
 
